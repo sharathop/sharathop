@@ -13,7 +13,7 @@ I'm a Computer Science student passionate about building intelligent systems and
 - 🔍 Exploring **retrieval-augmented generation**, **vector databases**, and **AI APIs**
 - 🛡️ Built a real-world **Phishing Detection System** deployed on Vercel
 - 💼 Actively looking for **internships** and **fresher roles** in ML/AI or Software Development
-- 📫 Reach me at: **sharathjobs@gmail.com.** *(update this)*
+- 📫 Reach me at: **sharathjobs@gmail.com.** 
 
 ---
 
