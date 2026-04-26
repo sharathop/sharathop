@@ -13,7 +13,7 @@ I'm a Computer Science student passionate about building intelligent systems and
 - 🔍 Exploring **retrieval-augmented generation**, **vector databases**, and **AI APIs**
 - 🛡️ Built a real-world **Phishing Detection System** deployed on Vercel
 - 💼 Actively looking for **internships** and **fresher roles** in ML/AI or Software Development
-- 📫 Reach me at: **[sharathjobs@gmail.com.email@gmail.com]** *(update this)*
+- 📫 Reach me at: **sharathjobs@gmail.com.** *(update this)*
 
 ---
 
@@ -73,9 +73,9 @@ I'm a Computer Science student passionate about building intelligent systems and
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-000000?style=flat-square&logo=vercel&logoColor=white)](https://phishing-detection-system-tau.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-m-62791a257/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharathjobs@@gmail.com)
+
 
 ---
 
