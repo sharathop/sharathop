@@ -34,7 +34,7 @@ I build complete AI systems, not notebooks — model design → FastAPI backend 
 4-evaluator pipeline classifying LLM responses as Faithful / Hallucinated / Irrelevant / Unverifiable. Caught a hallucination BERTScore rated 0.89 "Highly Faithful" that NLI flagged at 99.9% confidence.
 `Python` `FastAPI` `Streamlit` `HuggingFace`
 
-### 🤖 [Research & Report Agent](https://github.com/sharathop) *(add repo link)*
+### 🤖 [Research & Report Agent](https://github.com/sharathop) *(https://github.com/sharathop/transformers-from-scratch)*
 Self-critiquing LangGraph agent — plans sub-questions, researches in parallel, critiques its own coverage, retries on real gaps.
 `LangGraph` `LangChain` `Tavily` `Streamlit`
 
@@ -51,8 +51,8 @@ Phishing-URL detector — diagnosed and fixed a train/inference feature mismatch
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharathop&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathop&layout=compact&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharathop&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharathop&layout=compact&hide_border=true&theme=default" height="150" />
 </p>
 
 ---
@@ -60,4 +60,4 @@ Phishing-URL detector — diagnosed and fixed a train/inference feature mismatch
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-m-62791a257/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sharathparajji@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shrathparajji@gmail.com)
