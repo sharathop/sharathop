@@ -30,15 +30,15 @@ I build complete AI systems, not notebooks — model design → FastAPI backend 
 
 ## 🚀 Featured Projects
 
-### 🔍 [LLM Evaluation & Hallucination Detection Framework](https://github.com/sharathop/sha6th-llm-eval-ap)
+### 🔍 [LLM Evaluation & Hallucination Detection Framework](https://github.com/sharathop/llm-eval-framework)
 4-evaluator pipeline classifying LLM responses as Faithful / Hallucinated / Irrelevant / Unverifiable. Caught a hallucination BERTScore rated 0.89 "Highly Faithful" that NLI flagged at 99.9% confidence.
 `Python` `FastAPI` `Streamlit` `HuggingFace`
 
-### 🤖 [Research & Report Agent](https://github.com/sharathop) *(https://github.com/sharathop/transformers-from-scratch)*
+### 🤖 [Research & Report Agent](https://github.com/sharathop)(https://github.com/sharathop/agentic-research-report)
 Self-critiquing LangGraph agent — plans sub-questions, researches in parallel, critiques its own coverage, retries on real gaps.
 `LangGraph` `LangChain` `Tavily` `Streamlit`
 
-### 🧩 [Transformer Encoder from Scratch (+ LoRA)](https://github.com/sharathop/transformer-from-scratch)
+### 🧩 [Transformer Encoder from Scratch (+ LoRA)](https://github.com/sharathop/transformers-from-scratch)
 Every component hand-implemented — no `nn.Transformer`. 87.5% accuracy (full fine-tune) vs. 72.6% (LoRA, ~892x fewer params) on AG News.
 `PyTorch` `HuggingFace Datasets` `Gradio` `AWS`
 
