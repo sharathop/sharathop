@@ -48,14 +48,6 @@ Phishing-URL detector — diagnosed and fixed a train/inference feature mismatch
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharathop&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharathop&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
-
----
 
 ## 📬 Let's Connect
 
