@@ -34,7 +34,7 @@ I build complete AI systems, not notebooks — model design → FastAPI backend 
 4-evaluator pipeline classifying LLM responses as Faithful / Hallucinated / Irrelevant / Unverifiable. Caught a hallucination BERTScore rated 0.89 "Highly Faithful" that NLI flagged at 99.9% confidence.
 `Python` `FastAPI` `Streamlit` `HuggingFace`
 
-### 🤖 [Research & Report Agent](https://github.com/sharathop)(https://github.com/sharathop/agentic-research-report)
+### 🤖 [Research & Report Agent](https://github.com/sharathop/agentic-research-report)
 Self-critiquing LangGraph agent — plans sub-questions, researches in parallel, critiques its own coverage, retries on real gaps.
 `LangGraph` `LangChain` `Tavily` `Streamlit`
 
